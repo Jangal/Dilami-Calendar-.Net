@@ -101,6 +101,8 @@ End Module
 
 [Python Dilami Calendar](https://github.com/Jangal/python-dilami-calendar)
 <br/>
+[C++ Dilami Calendar](https://github.com/Jangal/Dilami-Calendar-C-)
+<br/>
 [Arduino Dilami Calendar](https://github.com/LordArma/Dilami-Calendar-Arduino)
 <br/>
 [تقویم دیلمی](http://giltime.ir)
