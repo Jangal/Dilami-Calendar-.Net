@@ -7,7 +7,7 @@ namespace C_Sharp_Example
     {
         static void Main(string[] args)
         {
-            DilamiCalendar dc = new DilamiCalendar(1398, 12, 2);
+            DilamiCalendar dc = new DilamiCalendar(1400, 1, 5);
 
             Console.Write("Dilami Day: ");
             Console.WriteLine(dc.getDilamiDay());

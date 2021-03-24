@@ -2,7 +2,7 @@ Imports Dilami_Calendar_.Net
 
 Module Program
     Sub Main(args As String())
-        Dim dc As New DilamiCalendar(1398, 12, 2)
+        Dim dc As New DilamiCalendar(1400, 1, 5)
 
         Console.Write("Dilami Day: ")
         Console.WriteLine(dc.getDilamiDay())
