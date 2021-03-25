@@ -19,7 +19,7 @@ namespace C_Sharp_Example
             Console.WriteLine();
 
             Console.WriteLine("IS " + dc.getDilamiYear() + " leap year? ");
-            if (dc.isLeap())
+            if (dc.isLeap(false))
             {
                 Console.WriteLine("Yes!");
             }
@@ -36,6 +36,18 @@ namespace C_Sharp_Example
             Console.WriteLine(dc.getJalaliMonth());
             Console.Write("Jalali Year: ");
             Console.WriteLine(dc.getJalaliYear());
+
+            Console.WriteLine("IS " + dc.getJalaliYear() + " leap year? ");
+            if (dc.isLeap(true))
+            {
+                Console.WriteLine("Yes!");
+            }
+            else
+            {
+                Console.WriteLine("No!");
+            }
+
+            Console.WriteLine();
 
             Console.ReadLine();
         }
