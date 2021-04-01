@@ -103,6 +103,8 @@ End Module
 <br/>
 [C++ Dilami Calendar](https://github.com/Jangal/Dilami-Calendar-C-)
 <br/>
+[PHP Dilami Calendar](https://github.com/Jangal/php-dilami-calendar)
+<br/>
 [Arduino Dilami Calendar](https://github.com/LordArma/Dilami-Calendar-Arduino)
 <br/>
 [تقویم دیلمی](http://giltime.ir)
